@@ -16,19 +16,30 @@
 - simliar to Fugue exposition (Fugato)
 - Baroque's French overture started slowly, then got faster.
 
-### Sinspiel
+---
+# Musical component of Magic Flute
+## Each of them are genre
+### 1. Sinspiel
 - have spokes and dialogue
 - have lied(er)
+  - Lied
+    - have particular structure
+    - strophic form
+- story of mythological characters
+- Don't have recitative
 
-## Lied
-- have particular structure
-- strophic form
-
-## Opera Buffa
+## 2. Opera Buffa
 - have 2 act structure
 - have comic resolution
 - have through-composed aria: That doesn't go back to beginning like ABA. But it keeps changning like ABCDE.
 - Mute role:  theme of mute role taking place.
+- 
 
-## Opera seria
+## 3. Opera seria
 - French overture
+- story of mythological characters like Sinspiel
+- Have recitative
+---
+# Sonata form
+- Sonata form is different from "Sonata genre"
+
