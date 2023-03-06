@@ -19,7 +19,7 @@
 ---
 # Musical component of Magic Flute
 ## Each of them are genre
-## 1. Sinspiel
+## 1. Singspiel
 - have spokes and dialogue
 - have lied(er)
   - Lied
