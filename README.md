@@ -1,4 +1,4 @@
-# Classic Era
+# Magic flute, Classic Era
 ## Characteristics
 - Romanticism
 - Republication of lyrics from folk song.
@@ -19,7 +19,7 @@
 ---
 # Musical component of Magic Flute
 ## Each of them are genre
-### 1. Sinspiel
+## 1. Sinspiel
 - have spokes and dialogue
 - have lied(er)
   - Lied
@@ -29,11 +29,11 @@
 - Don't have recitative
 
 ## 2. Opera Buffa
+- have recitative
 - have 2 act structure
 - have comic resolution
 - have through-composed aria: That doesn't go back to beginning like ABA. But it keeps changning like ABCDE.
 - Mute role:  theme of mute role taking place.
-- 
 
 ## 3. Opera seria
 - French overture
@@ -42,4 +42,15 @@
 ---
 # Sonata form
 - Sonata form is different from "Sonata genre"
+- Sonata form is not about tempo.
+---
+# Main characters in magic flute
+## Tmino
 
+---
+## Pamina
+
+---
+## Sarastro
+
+---
