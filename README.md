@@ -1,4 +1,7 @@
-# Classic era
+# Classic Era
+## Characteristics
+- Romanticism
+- Republication of lyrics from folk song.
 
 ## Impact of Russo on music
 - He created story of how human society developed.
@@ -16,3 +19,16 @@
 ### Sinspiel
 - have spokes and dialogue
 - have lied(er)
+
+## Lied
+- have particular structure
+- strophic form
+
+## Opera Buffa
+- have 2 act structure
+- have comic resolution
+- have through-composed aria: That doesn't go back to beginning like ABA. But it keeps changning like ABCDE.
+- Mute role:  theme of mute role taking place.
+
+## Opera seria
+- French overture
